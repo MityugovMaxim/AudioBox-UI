@@ -1,0 +1,7 @@
+{
+	"name": "com.audiobox.ui",
+	"displayName": "AudioBox UI",
+	"version": "1.0.0",
+	"description": "AudioBox UI core",
+	"unity": "2019.3"
+}
